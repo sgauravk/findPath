@@ -1,4 +1,4 @@
-const side = 4;
+const side = 8;
 
 const createTag = function(content, tag) {
   return `<${tag}> ${content} </${tag}>`;
